@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.Rproj.user/
+.Rhistory
+.idea/
+*.Rproj
 
 # C extensions
 *.so
